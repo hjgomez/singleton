@@ -1,0 +1,9 @@
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\bin\Debug\Singleton19mar.exe
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\bin\Debug\Singleton19mar.pdb
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\obj\x86\Debug\Singleton19mar.Properties.Resources.resources
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\obj\x86\Debug\Singleton19mar.exe
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\obj\x86\Debug\Singleton19mar.pdb
+c:\users\sccs\documents\visual studio 2010\Projects\Singleton19mar\Singleton19mar\obj\x86\Debug\Singleton19mar.Form1.resources
